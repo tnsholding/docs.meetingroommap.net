@@ -1,2 +1,2 @@
 # docs.meetingroommap.net
-Documentation site for [MeetingRoomMap](https://www.meetingroommap.net){target="_blank"}.
+Documentation site for [MeetingRoomMap](https://www.meetingroommap.net).
