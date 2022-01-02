@@ -1,2 +1,2 @@
 # docs.meetingroommap.net
-Documentation site for MeetingRoomMap.
+Documentation site for <a href="https://www.meetingroommap.net">MeetingRoomMap</a>.
