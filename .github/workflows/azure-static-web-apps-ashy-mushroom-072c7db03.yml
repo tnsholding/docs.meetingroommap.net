@@ -59,7 +59,9 @@ jobs:
       with:
         submodules: 'true'
     - name: 'Install Node Dependencies'
-      run: npm ci    
+      run: 
+        npm ci    
+        git submodule update --init --recursive --depth 1
     - name: 'Setup Hugo on Runner'
       uses: peaceiris/actions-hugo@v2
       with:
