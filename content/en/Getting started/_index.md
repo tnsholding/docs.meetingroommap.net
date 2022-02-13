@@ -4,34 +4,35 @@ linkTitle: "Getting Started"
 weight: 2
 tags: ["intro"]
 description: >
-  What does your user need to know to try your project?
+  Setting up MeetingRoomMap and installing add-ins
 ---
 
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
-
-Information in this section helps your user try your project themselves.
-
-* What do your users need to do to start using your project? This could include downloading/installation instructions, including any prerequisites or system requirements.
-
-* Introductory “Hello World” example, if appropriate. More complex tutorials should live in the Tutorials section.
-
-Consider using the headings below for your getting started page. You can delete any that are not applicable to your project.
+This section describes the steps needed to start using MeetingRoomMap.
 
 ## Prerequisites
+#### Microsoft Office 365
 
-Are there any system requirements for using your project? What languages are supported (if any)? Do users need to already have any software or tools installed?
+The add-ins are made for the Office 365 suite, and MeetingRoomMap registers as an application in Azure AD and expects users to log in with a valid Azure AD/Office 365 account. Meeting rooms and people to map are fetched from Azure AD. Thus an active Office 365 subscription is needed.
+#### Paid subscription plan for MeetingRoomMap
 
-## Installation
+Using the admin web site and add-ins of MeetingRoomMap, requires a paid subscription plan - see [https://www.meetingroommap.net/Pricing](https://www.meetingroommap.net/Pricing).
+The subscription is obtained through the [Microsoft Azure Marketplace](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/tnsconsulting.meetingroommap) and billed monthly through the Azure billing.
 
-Where can your user find your project code? How can they install it (binaries, installable package, build from source)? Are there multiple options/versions they can install and how should they choose the right one for them?
+{{% alert title="Free trial" color="info" %}}
+A free trial exists for trying out MeetingRoomMap. For a period of two weeks, the admin web site and all add-ins can be used without an active subscription.
+{{% /alert %}}
 
-## Setup
+#### Granting consent
 
-Is there any initial setup users need to do after installation to try your project?
+Before starting to use the admin web site or any of the add-ins, an administrator must grant consent to MeetingRoomMap - see [Granting consent to the MeetingRoomMap service](/getting-started/admin/).
 
-## Try it out!
+## Installation of add-ins
 
-Can your users test their installation, for example by running a commmand or deploying a Hello World example?
+The different Office add-ins are all available in the Microsoft AppSource store:
 
+* [MeetingRoomMap for Outlook](https://appsource.microsoft.com/en-us/product/office/wa104381386?tab=overview)
+* [MeetingRoomMap WebParts for SharePoint and Teams](https://appsource.microsoft.com/en-us/product/office/WA200001948?tab=Overview)
+* [MeetingRoomMap Bot for Teams](https://appsource.microsoft.com/en-us/product/office/WA104382042?tab=Overview)
+* [Desk reservations for Teams](https://appsource.microsoft.com/en-us/product/office/WA200003532?tab=Overview)
+
+Install one or more of the above add-ins as needed. Follow the installation guide below for each of the add-ins.

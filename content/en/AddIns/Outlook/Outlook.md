@@ -1,5 +1,5 @@
 ---
-title: "Install Outlook add-in"
+title: "Outlook add-in"
 linkTitle: "Outlook add-in"
 tags: ["Outlook"]
 weight: 20
