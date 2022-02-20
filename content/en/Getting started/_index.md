@@ -15,7 +15,7 @@ This section describes the steps needed to start using MeetingRoomMap.
 The add-ins are made for the Office 365 suite, and MeetingRoomMap registers as an application in Azure AD and expects users to log in with a valid Azure AD/Office 365 account. Meeting rooms and people to map are fetched from Azure AD. Thus an active Office 365 subscription is needed.
 #### Paid subscription plan for MeetingRoomMap
 
-Using the admin web site and add-ins of MeetingRoomMap, requires a paid subscription plan - see [https://www.meetingroommap.net/Pricing](https://www.meetingroommap.net/Pricing).
+Using the admin web site and add-ins of MeetingRoomMap, requires a paid subscription plan - see [Sign-up for MeetingRoomMap subscription](/getting-started/subscription/).
 The subscription is obtained through the [Microsoft Azure Marketplace](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/tnsconsulting.meetingroommap) and billed monthly through the Azure billing.
 
 {{% alert title="Free trial" color="info" %}}

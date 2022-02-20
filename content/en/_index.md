@@ -32,7 +32,7 @@ This is the documentation site for MeetingRoomMap. MeetingRoomMap is a Software 
 
 * People (automatically listed from Azure AD)
 
-* Custom locations (your own categories of locations, i.e. printers, fire extinguisher,
+* Custom locations (your own categories of locations, i.e. printers, desks, fire extinguisher,
 defibrillators)
 
 </br>
