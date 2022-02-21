@@ -10,11 +10,11 @@ description: >
 
 #### Paid subscription plan for MeetingRoomMap
 
-Using the admin web site and add-ins of MeetingRoomMap, requires a paid subscription plan - see [https://www.meetingroommap.net/Pricing](https://www.meetingroommap.net/Pricing).
+Using the admin website and add-ins of MeetingRoomMap, requires a paid subscription plan - see [https://www.meetingroommap.net/Pricing](https://www.meetingroommap.net/Pricing).
 The subscription is obtained through the [Microsoft Azure Marketplace](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/tnsconsulting.meetingroommap) and billed monthly through the Azure billing.
 
 {{% alert title="Free trial" color="info" %}}
-A free trial exists for trying out MeetingRoomMap. For a period of two weeks, the admin web site and all add-ins can be used without an active subscription. The free trial is automatically activated after granting consent to MeetingRoomMap.
+A free trial exists for trying out MeetingRoomMap. For a period of two weeks, the admin website and all add-ins can be used without an active subscription. The free trial is automatically activated after granting consent to MeetingRoomMap.
 {{% /alert %}}
 
 {{% alert title="Requires an Azure subscription" color="secondary" %}}
@@ -45,7 +45,7 @@ After selecting "Get It Now" you are redirected to the Azure portal
 {{< /imgproc >}}
 
 
-#### 5. After being redireted to MeetingRoomMap admin web site - Click "Activate subscription" 
+#### 5. After being redireted to MeetingRoomMap admin website - Click "Activate subscription" 
 
 {{< imgproc activateMeetingRoomMap Resize "880x" >}}
 {{< /imgproc >}}

@@ -15,16 +15,16 @@ This section describes the steps needed to start using MeetingRoomMap.
 The add-ins are made for the Office 365 suite, and MeetingRoomMap registers as an application in Azure AD and expects users to log in with a valid Azure AD/Office 365 account. Meeting rooms and people to map are fetched from Azure AD. Thus an active Office 365 subscription is needed.
 #### Paid subscription plan for MeetingRoomMap
 
-Using the admin web site and add-ins of MeetingRoomMap, requires a paid subscription plan - see [Sign-up for MeetingRoomMap subscription](/getting-started/subscription/).
+Using the admin website and add-ins of MeetingRoomMap, requires a paid subscription plan - see [Sign-up for MeetingRoomMap subscription](/getting-started/subscription/).
 The subscription is obtained through the [Microsoft Azure Marketplace](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/tnsconsulting.meetingroommap) and billed monthly through the Azure billing.
 
 {{% alert title="Free trial" color="info" %}}
-A free trial exists for trying out MeetingRoomMap. For a period of two weeks, the admin web site and all add-ins can be used without an active subscription.
+A free trial exists for trying out MeetingRoomMap. For a period of two weeks, the admin website and all add-ins can be used without an active subscription.
 {{% /alert %}}
 
 #### Granting consent
 
-Before starting to use the admin web site or any of the add-ins, an administrator must grant consent to MeetingRoomMap - see [Granting consent to the MeetingRoomMap service](/getting-started/admin/).
+Before starting to use the admin website or any of the add-ins, an administrator must grant consent to MeetingRoomMap - see [Granting consent to the MeetingRoomMap service](/getting-started/admin/).
 
 ## Installation of add-ins
 

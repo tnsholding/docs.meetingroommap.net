@@ -194,10 +194,10 @@ enable = false
 # 	icon = "fab fa-twitter"
 #         desc = "Follow us on Twitter to get the latest news!"
 [[params.links.user]]
-	name = "Admin web site"
+	name = "Admin website"
 	url = "https://www.meetingroommap.net"
 	icon = "fas fa-cogs"
-        desc = "Admin web site"
+        desc = "Admin website"
 [[params.links.user]]
 	name = "Support"
 	url = "https://www.meetingroommap.net/home/support"
