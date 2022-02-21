@@ -26,7 +26,11 @@ cascade:
   type: "home"
 ---
 
-This is the documentation site for MeetingRoomMap. MeetingRoomMap is a Software as a Service (SaaS) solution to visually show locations on your own floorplans. Floorplans are uploaded as images. The following types of locations can be mapped:
+This is the documentation site for MeetingRoomMap. 
+
+# What is MeetingRoomMap?
+
+MeetingRoomMap is a Software as a Service (SaaS) solution to visually show locations on your own floorplans. Floorplans are uploaded as images. The following types of locations can be mapped:
 
 * Meeting rooms (automatically listed from the meeting rooms defined in Office 365)
 

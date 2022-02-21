@@ -139,13 +139,13 @@ github_repo = "https://github.com/tnsholding/docs.meetingroommap.net"
 github_branch= "main"
 
 # Google Custom Search Engine ID. Remove or comment out to disable search. - create here https://cse.google.com/cse/
-gcs_engine_id = "6b310589ea3c967d4"
+# gcs_engine_id = "6b310589ea3c967d4"
 
 # Enable Algolia DocSearch
 algolia_docsearch = false
 
 # Enable Lunr.js offline search
-offlineSearch = false
+offlineSearch = true
 
 # Enable syntax highlighting and copy buttons on code blocks with Prism
 prism_syntax_highlighting = false
