@@ -42,7 +42,7 @@ defibrillators)
 </br>
 The MeetingRoomMap suite consists of: </br></br>
 
-* An admin web site (https://www.meetingroommap.net) to upload your own floorplan images and visually map locations to these floorplans.
+* An admin website (https://www.meetingroommap.net) to upload your own floorplan images and visually map locations to these floorplans.
 
 * A series of Office add-ins for Outlook, Teams, and SharePoint to search and display the mapped locations.
 
@@ -52,7 +52,7 @@ The MeetingRoomMap suite consists of: </br></br>
 ## Where should I go next?
 
 * [Getting Started](/getting-started/): Go to the 'Getting Started' section to get help setting up MeetingRoomMap in your company.
-* [Admin Core tasks](/tasks/): Check out the guide for common tasks in the admin web site.
+* [Admin Core tasks](/tasks/): Check out the guide for common tasks on the admin website.
 * [Using the add-ins](/addins/): See this section for using the different add-ins.
 
 
