@@ -73,7 +73,7 @@ To access SharePoint app catalog you need to be a SharePoint administrator.
 
 ### SharePoint 
 
-When the web parts have been installed and sync'ed to Teams, they can not be added to any mordern SharePoint page. Search for 'mrm' to quickly  look up the three MeetingRoomMap webparts:
+When the web parts have been installed and sync'ed to Teams, they can be added to any modern SharePoint page. Search for 'mrm' to quickly  look up the three MeetingRoomMap webparts:
 
 {{< imgproc add_webpart Resize "880x" >}}
 {{< /imgproc >}}
