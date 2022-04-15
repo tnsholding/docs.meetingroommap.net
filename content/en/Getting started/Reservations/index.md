@@ -35,15 +35,20 @@ To prepare Desk Reservations to be used for the company, a Teams administrator s
 
 The following list of permissions are granted:
 
-| Permission                             | Microsoft internal name  | Description                                                                                                                                                         |
-|----------------------------------------|--------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Sign in and read user profile          | User.Read                | Needed in order to sign in as a user and get basic user profile info.                                                                                               |
-| Read all users' basic profiles         | User.ReadBasic.All       | Read other users basic profiles. Needed to be able to show names of Team member bookings.                                                                           |
-| Have full access to user files         | Files.ReadWrite          | Allows the app to read, create, update and delete the signed-in user's files. Using OneDrive's app folder to store user specific settings (i.e. default floorplan/desk etc.) |
-| Access MeetingRoomMap (MeetingRoomMap) | N/A                      | Allow the admin site and add-ins to access the MeetingRoomMap backend API on behalf of the signed-in user.                                                          |
-|                                        |                          |                                                                                                                                                                     |
 
+|   | Permission                                  | Microsoft internal name | Description                                                                                                                                                                  |   |
+|---|---------------------------------------------|-------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
+|   | Sign in and read user profile               | User.Read               | Needed in order to sign in as a user and get basic user profile info.                                                                                                        |   |
+|   | Read all users' basic profiles              | User.ReadBasic.All      | Read other users basic profiles. Needed to be able to show names of Team member bookings.                                                                                    |   |
+|   | Have full access to user files              | Files.ReadWrite         | Allows the app to read, create, update and delete the signed-in user's files. Using OneDrive's app folder to store user specific settings (i.e. default floorplan/desk etc.) |   |
+|   | Read the members of teams                   | TeamMember.Read.All     | Read the members of teams, on behalf of the signed-in user. Needed to get reservations from other team members.                                                              |   |
+|   | Read the members of channels                | ChannelMember.Read.All  | Read the members of channels, on behalf of the signed-in user. Needed to get members when add-in is in a private channel.                                                    |   |
+|   | Read the names and descriptions of teams    | Team.ReadBasic.All      | Read the names and descriptions of teams, on behalf of the signed-in user.                                                                                                   |   |
+|   | Read the names and descriptions of channels | Channel.ReadBasic.All   | Read the names and description of channels, on behalf of the signed-in user.                                                                                                 |   |
+|   | Access MeetingRoomMap (MeetingRoomMap)      | N/A                     | Allow the admin site and add-ins to access the MeetingRoomMap backend API on behalf of the signed-in user.                                                                   |   |
+|   |                                             |                         |                                                                                                                                                                              |   |
 
+                                                                                                                                                                     |   |
 ## Installing Desk reservations in Teams
 
 Once an administrator has granted permissions, any user can add the Desk reservations app in Teams - either in a Teams channel or as a personal tab. 
