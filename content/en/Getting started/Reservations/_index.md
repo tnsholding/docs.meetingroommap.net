@@ -59,3 +59,8 @@ Click "Add a tab" from within any channel or use the "Apps" button and search fo
 {{< /imgproc >}}
 
 If added from "Apps" button, then the user can choose to add the app as a personal tab or add it to a specific Team. As a personal tab the app can be pinned like any other app. 
+
+
+## What’s next?
+
+* [Sign-up for subscription](/getting-started/subscription/): Sign-up for MeetingRoomMap subscription
