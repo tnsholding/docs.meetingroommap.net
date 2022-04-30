@@ -2,7 +2,7 @@
 title: "Getting Started"
 linkTitle: "Getting Started"
 weight: 2
-tags: ["intro"]
+tags: []
 description: >
   Setting up MeetingRoomMap and installing add-ins
 ---

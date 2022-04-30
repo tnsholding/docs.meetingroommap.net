@@ -2,7 +2,7 @@
 title: "Add-ins"
 linkTitle: "Using the Add-ins"
 weight: 10
-tags: ["intro"]
+tags: []
 description: >
   Using the Office 365 add-ins
 ---

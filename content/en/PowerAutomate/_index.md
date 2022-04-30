@@ -1,7 +1,7 @@
 ---
 title: "Power Automate"
 linkTitle: "Power Automate"
-tags: ["intro", "reference"]
+tags: []
 weight: 150
 description: >
   Build your own solutions with Power Automate 
