@@ -19,7 +19,7 @@ Rooms can optionally be organized in room lists - see [https://docs.microsoft.co
 
 Mapping a meeting room to a floorplan can be done in two ways in the admin web site:
 
-1) Per image/floorplan from [Images](https://www.meetingroommap.net/MapImage) page by clicking "Attach rooms" button for an image"
+1) Per image/floorplan from [Images](https://www.meetingroommap.net/MapImage) page by clicking "Attach rooms" button for an image
 2) From the [Rooms](https://www.meetingroommap.net/Rooms) page.
 
 ### 1. Mapping from Image list

@@ -38,11 +38,10 @@ For best display try to upload images that are close to a square form, and not h
 
 The name of a floorplan will initially be the same as the filename of the uploaded image.
 
-To rename a floorplan, go to the [Images](https://www.meetingroommap.net/MapImage) page and click the "Attach rooms" button for the floorplan to edit. From within the "Edit room map" page, change the "Title" field and click "Update room title".
+To rename a floorplan, go to the [Images](https://www.meetingroommap.net/MapImage) page and click the "Attach rooms" button for the floorplan to edit. From within the "Edit room map" page, change the "Title" field and click "Update map title".
 
 {{< imgproc rename Resize "880x" >}}
 {{< /imgproc >}}
-
 
 ## Delete a floorplan
 
