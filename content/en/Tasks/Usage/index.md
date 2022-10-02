@@ -24,12 +24,12 @@ Log data are only kept for one month, so it will not be possibly to create views
 
 ## Usage information
 
-Log information is normally recorded with a major category and detailed action within that category, i.e. "CustomLocation.FindByName" (major category 'Custom locations' and detailed action 'find a custom location by name').
+Log information is recorded with a major category and detailed action within that category, i.e. "CustomLocation.FindByName" (major category 'Custom locations' and detailed action 'find a custom location by name').
 
-Below is a description of the different actions recorded. 
-
+Below is a description of the different actions recorded.
 
 #### Custom locations log entries
+
 | Log entry                          | Description                                                                  | Count as search |
 |------------------------------------|------------------------------------------------------------------------------|-----------------|
 | CustomLocation.AttachToImage       | Map a custom location to a specific image/floorplan                          | No              |
@@ -61,10 +61,8 @@ Below is a description of the different actions recorded.
 | MeetingRoom.NextMeetings    | Get list of users next meetings including images with locations (used by Teams Bot ) | Yes             |
 | MeetingRoom.RemoveFromImage | Remove a meeting room from an image/floorplan                                        | No              |
 | MeetingRoom.RoomByName      | Get details and image with location for a specific meeting room                      | Yes             |
-| MeetingRoom.RoomDetails     | Get all details including image with location for a specific meeting room | Yes             |
+| MeetingRoom.RoomDetails     | Get all details including image with location for a specific meeting room            | Yes             |
 | MeetingRoom.RoomList        | Get a list of all meeting rooms from Azure AD                                        | Yes             |
-
-
 
 #### Reservations log entries
 
